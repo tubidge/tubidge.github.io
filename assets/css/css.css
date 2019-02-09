@@ -94,6 +94,10 @@ body {
     border-color: #4aaaa5; */
   }
 
+
+
+            /* >>>>> About Page Styles <<<<< */
+
   section {
       background: #ffffff;
       width: 960px;
@@ -105,10 +109,6 @@ body {
       position: relative;
       /* overflow: hidden; */      
   }
-
-
-
-              /* >>>>> About Page Styles <<<<< */
 
   #summary {
       width: 95%;
@@ -138,23 +138,10 @@ body {
 
             /* >>>>> Portfolio Page Styles <<<<< */
 
-  #port-bg {
-      background: #ffffff;
-      width: 960px;
-      height: 990px;
-      clear: both;
-      margin: 100px auto 60px auto;
-      border-style: solid;
-      border-width: 1px;
-      border-color: #dddddd;
-      position: relative;
-  }
-
   #projects {
       position: relative;
-      top: -70px;
+      top: -60px;
       width: 920px;
-      height: 740px;
       border: none;
   }
 
