@@ -140,8 +140,9 @@ body {
 
   #projects {
       position: relative;
-      top: -60px;
+      top: -70px;
       width: 920px;
+      height: 740px;
       border: none;
   }
 
